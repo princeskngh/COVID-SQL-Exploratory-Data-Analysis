@@ -32,10 +32,10 @@ What you need to install the software:
 Clone the Repository
 
 bash
-'''
+```
 git clone https://github.com/princeskngh/COVID-SQL-Exploratory-Data-Analysis.git
 cd COVID-SQL-Exploratory-Data-Analysis
-'''
+```
 
 # Database Setup
 
